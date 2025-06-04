@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtrador de Texto OCR</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script defer src="{{ url_for('static', filename='filtrador.js') }}"></script>
+    <script defer src="{{ url_for('static', filename='navbar.js') }}"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="/ocr">OCR</a>
+            <a href="/filtrador" class="active">Filtrador de Texto</a>
+        </nav>
+        <h1>Filtrador de Texto</h1>
+        <p class="subtitulo">Extrae Total, IVA y NIT/número de factura de los resultados OCR</p>
+    </header>
+    <main>
+        <section class="modulo" style="margin-top:2.5rem;">
+            <form id="filter-form">
+                <label for="txt-input">Selecciona archivos de texto OCR (.txt):</label><br>
+                <input type="file" id="txt-input" accept=".txt" multiple />
+                <button type="submit" style="margin-left:1em;">Filtrar y descargar JSON</button>
+            </form>
+            <div id="filter-status" style="margin-top: 1em; color: #0c77f2;"></div>
+        </section>
+    </main>
+</body>
+</html>

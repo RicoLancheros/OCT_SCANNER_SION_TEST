@@ -1,0 +1,449 @@
+[DEBUG] Inicio de main()
+[DEBUG] input_root: Orden, output_root: Orden/resultados
+[DEBUG] Carpeta de resultados creada/existente: Orden/resultados
+[DEBUG] Iniciando procesamiento de carpetas
+[DEBUG] Procesando imagen: Orden\Gastos\Compra1.jpg
+[ERROR] Error procesando imagen Orden\Gastos\Compra1.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Gastos\Compra1.jpg
+[DEBUG] Procesando imagen: Orden\Gastos\Compra2.png
+[ERROR] Error procesando imagen Orden\Gastos\Compra2.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Gastos\Compra2.png
+[DEBUG] Procesando imagen: Orden\Ganancias\venta1.png
+[ERROR] Error procesando imagen Orden\Ganancias\venta1.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Ganancias\venta1.png
+[DEBUG] Procesamiento de carpeta completado: Orden
+[INFO] Procesamiento completado.
+[DEBUG] Inicio de main()
+[DEBUG] input_root: Orden, output_root: Orden/resultados
+[DEBUG] Carpeta de resultados creada/existente: Orden/resultados
+[DEBUG] Iniciando procesamiento de carpetas
+[DEBUG] Procesando imagen: Orden\Gastos\Compra1.jpg
+[ERROR] Error procesando imagen Orden\Gastos\Compra1.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Gastos\Compra1.jpg
+[DEBUG] Procesando imagen: Orden\Gastos\Compra2.png
+[ERROR] Error procesando imagen Orden\Gastos\Compra2.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Gastos\Compra2.png
+[DEBUG] Procesando imagen: Orden\Ganancias\venta1.png
+[ERROR] Error procesando imagen Orden\Ganancias\venta1.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+[WARNING] OCR fallido o error en: Orden\Ganancias\venta1.png
+[DEBUG] Procesamiento de carpeta completado: Orden
+[INFO] Procesamiento completado.
+[DEBUG] Inicio de main()
+[DEBUG] input_root: Orden, output_root: Orden/resultados
+[DEBUG] Carpeta de resultados creada/existente: Orden/resultados
+[DEBUG] Iniciando procesamiento de carpetas
+[DEBUG] Procesando imagen: Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: Orden/resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: Orden
+[INFO] Procesamiento completado.
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Inicio de main()
+[DEBUG] input_root: Orden, output_root: Orden/resultados
+[DEBUG] Carpeta de resultados creada/existente: Orden/resultados
+[DEBUG] Iniciando procesamiento de carpetas
+[DEBUG] Procesando imagen: Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: Orden/resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: Orden
+[INFO] Procesamiento completado.
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1137 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (549 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'SGER FACTURA DE VENTA
+
+CORREO : lomogiedesmachines'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (846 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (143 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'A Lal
+3] E Cn
+Fl Dis
+ii -) E : .
+E | EE PES
+334 BP'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (20 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'E 7 ES
+a et
+ALA
+
+ME'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (80 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: '< ; ¡
+E
+AIN :
+d Ri :
+: ¿ren z E
+35
+NIE
+$ :
+E :
+; A'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1080 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (856 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'mI: 800S0109-2
+Dia:15 Mes: 06 Año:2020
+DIRECCIÓN: '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (842 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1080 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (856 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'mI: 800S0109-2
+Dia:15 Mes: 06 Año:2020
+DIRECCIÓN: '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (842 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1080 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra10.png
+[DEBUG] Texto extraído (702 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra10.png: 'EMPRESA CAPACITACION S.A.
+MT 800,100200 - 8
+072080'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra10.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (856 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'mI: 800S0109-2
+Dia:15 Mes: 06 Año:2020
+DIRECCIÓN: '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra3.png
+[DEBUG] Texto extraído (687 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra3.png: 'Señores — PROVEEDOR PRUEBA SAS
+Nr 200.900.900-
+Dir'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra3.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.jpg
+[DEBUG] Texto extraído (669 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.jpg: 'Software
+
+ITECSOFT SAS
+Nit: 901414566-2
+CALLE 33 4'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra5.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra6.png
+[DEBUG] Texto extraído (1108 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra6.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra6.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra7.jpg
+[DEBUG] Texto extraído (333 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra7.jpg: 'HUEVOS Y LACTEOS
+
+MANTEQUILLA ALPINA 4,280
+MOZRE/D'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra7.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra8.jpg
+[DEBUG] Texto extraído (323 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra8.jpg: 'éxito
+
+Salitre Plaza
+
+06/02/17 17:
+
+CEREALES po
+ar'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra8.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra9.PNG
+[DEBUG] Texto extraído (700 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra9.PNG: 'COMPRA EXTRANJERA FACTURA PROVEEDOR
+
+1872 94002592'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra9.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venata5.png
+[DEBUG] Texto extraído (1108 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venata5.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venata5.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (842 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta10.png
+[DEBUG] Texto extraído (520 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta10.png: 'Imprimir | | Tipo Carta Nueva VENTA!
+
+ABP
+
+SOLUCIO'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta10.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta2.jpg
+[DEBUG] Texto extraído (1943 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta2.jpg: 'COMPAÑÍA XYZ S.A.S.
+: NIT 999.999.999-9
+
+Gran Cont'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta3.jpg
+[DEBUG] Texto extraído (949 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta3.jpg: 'TuEmpresa S.A.S.
+
+NIT: 900250000-6
+Av Cr 35 No. 12'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta3.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta4.png
+[DEBUG] Texto extraído (2608 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta4.png: 'inFaCont On-Premise ifcerp6 gmail.com www.InFaCont'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta4.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png
+[DEBUG] Texto extraído (0 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png: ''
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta6.txt
+[WARNING] ADVERTENCIA: El texto extraído de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png está vacío.
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta8.png
+[DEBUG] Texto extraído (673 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta8.png: 'G A
+
+Pago 116523627 Documento 1 de 1
+
+Medical Clin'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta8.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta9.png
+[DEBUG] Texto extraído (1427 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta9.png: 'Imprimir Tipo Ticket | [Nueva VENTA]
+
+< USUARIO DE'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta9.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1080 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra10.png
+[DEBUG] Texto extraído (702 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra10.png: 'EMPRESA CAPACITACION S.A.
+MT 800,100200 - 8
+072080'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra10.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (856 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra2.png: 'mI: 800S0109-2
+Dia:15 Mes: 06 Año:2020
+DIRECCIÓN: '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra3.png
+[DEBUG] Texto extraído (687 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra3.png: 'Señores — PROVEEDOR PRUEBA SAS
+Nr 200.900.900-
+Dir'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra3.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.jpg
+[DEBUG] Texto extraído (669 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.jpg: 'Software
+
+ITECSOFT SAS
+Nit: 901414566-2
+CALLE 33 4'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra5.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.png
+[DEBUG] Texto extraído (327 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra5.png: 'E a
+E
+
+EMPRESA CAPACITACION S.A.S
+NT 900.100.200-1'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra5.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra6.png
+[DEBUG] Texto extraído (1108 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\compra6.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\compra6.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra7.jpg
+[DEBUG] Texto extraído (333 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra7.jpg: 'HUEVOS Y LACTEOS
+
+MANTEQUILLA ALPINA 4,280
+MOZRE/D'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra7.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra8.jpg
+[DEBUG] Texto extraído (323 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra8.jpg: 'éxito
+
+Salitre Plaza
+
+06/02/17 17:
+
+CEREALES po
+ar'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra8.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra9.PNG
+[DEBUG] Texto extraído (700 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Gastos\Compra9.PNG: 'COMPRA EXTRANJERA FACTURA PROVEEDOR
+
+1872 94002592'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Gastos\Compra9.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venata5.png
+[DEBUG] Texto extraído (1108 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venata5.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venata5.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (842 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta1.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta10.png
+[DEBUG] Texto extraído (520 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta10.png: 'Imprimir | | Tipo Carta Nueva VENTA!
+
+ABP
+
+SOLUCIO'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta10.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta2.jpg
+[DEBUG] Texto extraído (1943 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta2.jpg: 'COMPAÑÍA XYZ S.A.S.
+: NIT 999.999.999-9
+
+Gran Cont'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta2.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta3.jpg
+[DEBUG] Texto extraído (949 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta3.jpg: 'TuEmpresa S.A.S.
+
+NIT: 900250000-6
+Av Cr 35 No. 12'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta3.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta4.png
+[DEBUG] Texto extraído (2608 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta4.png: 'inFaCont On-Premise ifcerp6 gmail.com www.InFaCont'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta4.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png
+[DEBUG] Texto extraído (0 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png: ''
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\venta6.txt
+[WARNING] ADVERTENCIA: El texto extraído de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\venta6.png está vacío.
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta8.png
+[DEBUG] Texto extraído (673 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta8.png: 'G A
+
+Pago 116523627 Documento 1 de 1
+
+Medical Clin'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta8.txt
+[DEBUG] Procesando imagen: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta9.png
+[DEBUG] Texto extraído (1427 caracteres) de C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden\Ganancias\Venta9.png: 'Imprimir Tipo Ticket | [Nueva VENTA]
+
+< USUARIO DE'
+[INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta9.txt
+[DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden

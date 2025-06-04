@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR - Procesamiento de Imágenes</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script defer src="{{ url_for('static', filename='frontend.js') }}"></script>
+    <script defer src="{{ url_for('static', filename='navbar.js') }}"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="/ocr" class="active">OCR</a>
+            <a href="/filtrador">Filtrador de Texto</a>
+        </nav>
+        <h1>Procesamiento Local de Imágenes con OCR</h1>
+        <p class="subtitulo">Aplicación ligera para hardware antiguo - Python + Tesseract OCR</p>
+    </header>
+    <main>
+        <section>
+            <h2>Subir carpeta Orden para OCR</h2>
+            <form id="upload-form">
+                <input type="file" id="folder-input" webkitdirectory directory multiple />
+                <button type="submit">Subir y procesar</button>
+            </form>
+            <div id="status" style="margin-top: 1em; color: #0c77f2;"></div>
+        </section>
+    </main>
+</body>
+</html>

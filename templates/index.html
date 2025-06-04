@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procesamiento Local de Imágenes con OCR</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script defer src="{{ url_for('static', filename='frontend.js') }}"></script>
+</head>
+<body>
+    <header>
+        <h1>Arquitectura del Sistema: Procesamiento Local de Imágenes con OCR</h1>
+        <p class="subtitulo">Aplicación ligera para hardware antiguo - Python + Tesseract OCR</p>
+    </header>
+    <main>
+        <section>
+            <h2>Subir carpeta Orden para OCR</h2>
+            <form id="upload-form">
+                <input type="file" id="folder-input" webkitdirectory directory multiple />
+                <button type="submit">Subir y procesar</button>
+            </form>
+            <div id="status" style="margin-top: 1em; color: #0c77f2;"></div>
+        </section>
+        <section class="modulo" style="margin-top:2.5rem;">
+            <h2>Filtrador de Texto</h2>
+            <form id="filter-form">
+                <label for="txt-input">Selecciona archivos de texto OCR (.txt):</label><br>
+                <input type="file" id="txt-input" accept=".txt" multiple />
+                <button type="submit" style="margin-left:1em;">Filtrar y descargar JSON</button>
+            </form>
+            <div id="filter-status" style="margin-top: 1em; color: #0c77f2;"></div>
+        </section>
+    </main>
+</body>
+</html>
