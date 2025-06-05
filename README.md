@@ -16,7 +16,8 @@ pip install opencv-python numpy
 
 ## Instalación de Tesseract OCR
 ### Windows
-1. Descarga el instalador desde: https://github.com/tesseract-ocr/tesseract
+1. Descarga el instalador desde: https://github.com/UB-Mannheim/tesseract/wiki
+4. Descargar el instalador: tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)
 2. Instala y agrega la ruta de Tesseract (`tesseract.exe`) al PATH del sistema.
 3. (Opcional) Descarga el paquete de idioma español (`spa.traineddata`) si no está incluido.
 
