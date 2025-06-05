@@ -447,3 +447,101 @@ Medical Clin'
 < USUARIO DE'
 [INFO] Archivo generado: C:\Users\Rico\AppData\Local\Temp\ocr_resultados\resultados\Ganancias\Venta9.txt
 [DEBUG] Procesamiento de carpeta completado: C:\Users\Rico\AppData\Local\Temp\ocr_input\Orden
+[DEBUG] Inicio de main()
+[DEBUG] input_root: Orden, output_root: Orden/resultados
+[DEBUG] Carpeta de resultados creada/existente: Orden/resultados
+[DEBUG] Iniciando procesamiento de carpetas
+[DEBUG] Procesando imagen: Orden\Gastos\Compra1.jpg
+[DEBUG] Texto extraído (1080 caracteres) de Orden\Gastos\Compra1.jpg: 'FACTURA ELECTRÓNICA DE VENTA
+
+ITECSOFTSAS.
+Nit 901'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra1.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra10.png
+[DEBUG] Texto extraído (702 caracteres) de Orden\Gastos\Compra10.png: 'EMPRESA CAPACITACION S.A.
+MT 800,100200 - 8
+072080'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra10.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra2.png
+[DEBUG] Texto extraído (856 caracteres) de Orden\Gastos\Compra2.png: 'mI: 800S0109-2
+Dia:15 Mes: 06 Año:2020
+DIRECCIÓN: '
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra2.txt
+[DEBUG] Procesando imagen: Orden\Gastos\compra3.png
+[DEBUG] Texto extraído (687 caracteres) de Orden\Gastos\compra3.png: 'Señores — PROVEEDOR PRUEBA SAS
+Nr 200.900.900-
+Dir'
+[INFO] Archivo generado: Orden/resultados\Gastos\compra3.txt
+[DEBUG] Procesando imagen: Orden\Gastos\compra5.jpg
+[DEBUG] Texto extraído (669 caracteres) de Orden\Gastos\compra5.jpg: 'Software
+
+ITECSOFT SAS
+Nit: 901414566-2
+CALLE 33 4'
+[INFO] Archivo generado: Orden/resultados\Gastos\compra5.txt
+[DEBUG] Procesando imagen: Orden\Gastos\compra5.png
+[DEBUG] Texto extraído (327 caracteres) de Orden\Gastos\compra5.png: 'E a
+E
+
+EMPRESA CAPACITACION S.A.S
+NT 900.100.200-1'
+[INFO] Archivo generado: Orden/resultados\Gastos\compra5.txt
+[DEBUG] Procesando imagen: Orden\Gastos\compra6.png
+[DEBUG] Texto extraído (1108 caracteres) de Orden\Gastos\compra6.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: Orden/resultados\Gastos\compra6.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra7.jpg
+[DEBUG] Texto extraído (333 caracteres) de Orden\Gastos\Compra7.jpg: 'HUEVOS Y LACTEOS
+
+MANTEQUILLA ALPINA 4,280
+MOZRE/D'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra7.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra8.jpg
+[DEBUG] Texto extraído (323 caracteres) de Orden\Gastos\Compra8.jpg: 'éxito
+
+Salitre Plaza
+
+06/02/17 17:
+
+CEREALES po
+ar'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra8.txt
+[DEBUG] Procesando imagen: Orden\Gastos\Compra9.PNG
+[DEBUG] Texto extraído (700 caracteres) de Orden\Gastos\Compra9.PNG: 'COMPRA EXTRANJERA FACTURA PROVEEDOR
+
+1872 94002592'
+[INFO] Archivo generado: Orden/resultados\Gastos\Compra9.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venata5.png
+[DEBUG] Texto extraído (1108 caracteres) de Orden\Ganancias\venata5.png: 'FACTURA ELECTRÓNICA
+DE VENTA
+
+Resolución de factur'
+[INFO] Archivo generado: Orden/resultados\Ganancias\venata5.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta1.png
+[DEBUG] Texto extraído (842 caracteres) de Orden\Ganancias\venta1.png: 'Mi Bodega Demo Factura de Venta
+
+12234567-8
+Calle '
+[INFO] Archivo generado: Orden/resultados\Ganancias\venta1.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\Venta10.png
+[DEBUG] Texto extraído (520 caracteres) de Orden\Ganancias\Venta10.png: 'Imprimir | | Tipo Carta Nueva VENTA!
+
+ABP
+
+SOLUCIO'
+[INFO] Archivo generado: Orden/resultados\Ganancias\Venta10.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta2.jpg
+[DEBUG] Texto extraído (1943 caracteres) de Orden\Ganancias\venta2.jpg: 'COMPAÑÍA XYZ S.A.S.
+: NIT 999.999.999-9
+
+Gran Cont'
+[INFO] Archivo generado: Orden/resultados\Ganancias\venta2.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta3.jpg
+[DEBUG] Texto extraído (949 caracteres) de Orden\Ganancias\venta3.jpg: 'TuEmpresa S.A.S.
+
+NIT: 900250000-6
+Av Cr 35 No. 12'
+[INFO] Archivo generado: Orden/resultados\Ganancias\venta3.txt
+[DEBUG] Procesando imagen: Orden\Ganancias\venta4.png

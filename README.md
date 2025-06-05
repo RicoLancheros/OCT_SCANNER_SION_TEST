@@ -46,8 +46,9 @@ Orden/
 ## Uso
 1. Coloca tus imágenes en las carpetas `Orden/Gastos` y `Orden/Ganancias`.
 2. Ejecuta el script principal:
+
 ```sh
-python app.py
+python web_backend.py
 ```
 3. Los resultados aparecerán en se decargan en un archivo .zip
 
